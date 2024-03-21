@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=欢迎来到梦泽的Github主页！)
 ## 联系方式
 - 谷歌邮箱：MengZe2MC@gmail.com
 - QQ邮箱：2317113278@qq.com
