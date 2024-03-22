@@ -14,5 +14,3 @@
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MengZC&theme=dracula)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=MengZeMC)
-
-<img align="right" alt="Coding" width="400" src="https://streak-stats.demolab.com/?user=MengZeMC">
